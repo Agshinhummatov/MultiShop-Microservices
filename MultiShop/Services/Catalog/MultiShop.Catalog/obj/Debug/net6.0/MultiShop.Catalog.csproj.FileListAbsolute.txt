@@ -1,0 +1,8 @@
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.csproj.AssemblyReference.cache
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.AssemblyInfoInputs.cache
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.AssemblyInfo.cs
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.csproj.CoreCompileInputs.cache
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.sourcelink.json
