@@ -60,7 +60,7 @@ The MultiShop Discount Service is a microservice designed to manage coupon codes
 - **Database**: SQL Server
 - **ORM**: Dapper for data access
 
-![Discount Service](https://i.imgur.com/7JuKTM7.png)
+
 
 ## API Endpoints
 - `POST /coupons`: Create a new coupon
@@ -68,3 +68,5 @@ The MultiShop Discount Service is a microservice designed to manage coupon codes
 - `GET /coupons/{id}`: Get a coupon by ID
 - `PUT /coupons/{id}`: Update an existing coupon
 - `DELETE /coupons/{id}`: Delete a coupon
+- 
+![Discount Service](https://i.imgur.com/7JuKTM7.png)
