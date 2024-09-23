@@ -10,7 +10,7 @@ namespace MultiShop.Catalog.Registration
 {
     public static class ServiceRegistration
     {
-        public static void AddServices(this IServiceCollection services, IConfiguration configuration)
+        public static void AddCatalogServices(this IServiceCollection services, IConfiguration configuration)
         {
             // Register category, product, product detail, and product image services
             services.AddScoped<ICategoryService, CategoryService>();
