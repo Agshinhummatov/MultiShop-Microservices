@@ -71,3 +71,7 @@ C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\Multi
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\obj\Debug\net6.0\MultiShop.Order.WebApi.pdb
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\obj\Debug\net6.0\MultiShop.Order.WebApi.genruntimeconfig.cache
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\obj\Debug\net6.0\ref\MultiShop.Order.WebApi.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
