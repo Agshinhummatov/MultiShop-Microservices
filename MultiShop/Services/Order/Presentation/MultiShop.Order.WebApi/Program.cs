@@ -1,11 +1,13 @@
 using Microsoft.Extensions.Configuration;
 using MultiShop.Order.Application.Interfaces;
 using MultiShop.Order.Application.Registrations;
+using MultiShop.Order.Persistence.Context;
 using MultiShop.Order.Persistence.Repositories;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddScoped<OrderConext>();
 // Add services to the container.
 builder.Services.AddScoped(typeof(IRepository<>),typeof(Repository<>));
 
