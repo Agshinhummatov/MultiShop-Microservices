@@ -33,6 +33,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiShop.IdentityServer", "IdentityServer\MultiShop.IdentityServer\MultiShop.IdentityServer.csproj", "{BC3780BD-8F6B-4AE6-BB67-0AB842B87152}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Requirement", "Requirement", "{513AE25D-A515-4219-960E-4542594FD274}"
+	ProjectSection(SolutionItems) = preProject
+		PortainerCmd.txt = PortainerCmd.txt
+		İdentityServerVersionErrorSolution.txt = İdentityServerVersionErrorSolution.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
