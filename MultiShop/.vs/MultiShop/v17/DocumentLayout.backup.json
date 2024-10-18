@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC3780BD-8F6B-4AE6-BB67-0AB842B87152}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\identityserver\\multishop.identityserver\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3780BD-8F6B-4AE6-BB67-0AB842B87152}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC3780BD-8F6B-4AE6-BB67-0AB842B87152}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\identityserver\\multishop.identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC3780BD-8F6B-4AE6-BB67-0AB842B87152}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BC3780BD-8F6B-4AE6-BB67-0AB842B87152}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\identityserver\\multishop.identityserver\\multishop.identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BC3780BD-8F6B-4AE6-BB67-0AB842B87152}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\multishop.identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC3780BD-8F6B-4AE6-BB67-0AB842B87152}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\identityserver\\multishop.identityserver\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC3780BD-8F6B-4AE6-BB67-0AB842B87152}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -309,11 +309,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MultiShop.IdentityServer",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
@@ -325,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "\u0130dentityServerVersionErrorSolution.txt",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\\u0130dentityServerVersionErrorSolution.txt",
               "RelativeDocumentMoniker": "\u0130dentityServerVersionErrorSolution.txt",
@@ -338,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PortainerCmd.txt",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\PortainerCmd.txt",
               "RelativeDocumentMoniker": "PortainerCmd.txt",
@@ -351,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ResgistersController.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Controllers\\ResgistersController.cs",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Controllers\\ResgistersController.cs",
@@ -376,19 +376,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
               "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
               "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T18:25:28.075Z"
+              "WhenOpened": "2024-10-10T18:25:28.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MultiShop.IdentityServer.csproj",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
@@ -400,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
@@ -413,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserRegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\DTOs\\UserRegisterDto.cs",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\DTOs\\UserRegisterDto.cs",
