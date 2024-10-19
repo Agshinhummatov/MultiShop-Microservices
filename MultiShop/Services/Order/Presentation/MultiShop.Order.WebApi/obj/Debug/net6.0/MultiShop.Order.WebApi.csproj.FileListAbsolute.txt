@@ -77,3 +77,5 @@ C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\Multi
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\Humanizer.dll
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

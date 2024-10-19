@@ -68,3 +68,5 @@ C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Discount\MultiShop.Disco
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net6.0\MultiShop.Discount.pdb
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net6.0\MultiShop.Discount.genruntimeconfig.cache
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Discount\MultiShop.Discount\obj\Debug\net6.0\ref\MultiShop.Discount.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

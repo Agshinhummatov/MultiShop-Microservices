@@ -1,15 +1,20 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.Options;
 using MultiShop.Catalog.Registration;
-using MultiShop.Catalog.Services.CategoryServices;
-using MultiShop.Catalog.Services.ProductDetailServices;
-using MultiShop.Catalog.Services.ProductImageServices;
-using MultiShop.Catalog.Services.ProductServices;
-using MultiShop.Catalog.Settings;
-using System.Reflection;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt =>
+{
+    opt.Authority = builder.Configuration["IdentityServerUrl"];
+    opt.Audience = "ResourceCatalog";
+    opt.RequireHttpsMetadata = false;
+});
+
+
 
 builder.Services.AddCatalogServices(builder.Configuration);
 
@@ -28,6 +33,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 
