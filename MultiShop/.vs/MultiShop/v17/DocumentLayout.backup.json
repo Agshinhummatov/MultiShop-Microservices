@@ -3,6 +3,98 @@
   "WorkspaceRootPath": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargooperationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargooperationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargodetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargodetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargocustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargocustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargocompanydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\entityframework\\efcargocompanydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\concrete\\cargocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\concrete\\cargocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargooperationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargooperationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargodetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargodetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargocustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargocustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargocompanydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\abstract\\icargocompanydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063D7C1D-F230-4C85-BA2A-82A98D40BA08}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063D7C1D-F230-4C85-BA2A-82A98D40BA08}|Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\MultiShop.Cargo.BusinessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581B1E63-B99F-49F1-AE44-8CE5C7D627AD}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581B1E63-B99F-49F1-AE44-8CE5C7D627AD}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64311EA-52B2-45EE-A8F1-CF07E0974A8E}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\discount\\multishop.discount\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64311EA-52B2-45EE-A8F1-CF07E0974A8E}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\migrations\\20241021080648_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE5677D-A867-44B8-8C5C-F89DE5054401}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\migrations\\20241021080648_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79EA2F-95F1-42A9-B2E7-0230D41B0528}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.webapi\\multishop.cargo.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B79EA2F-95F1-42A9-B2E7-0230D41B0528}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\multishop.cargo.webapi\\multishop.cargo.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC755928-0D90-4F27-B99D-557F1F5678C5}|Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\order\\infrastructure\\multishop.order.persistence\\context\\orderconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC755928-0D90-4F27-B99D-557F1F5678C5}|Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|solutionrelative:services\\order\\infrastructure\\multishop.order.persistence\\context\\orderconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581B1E63-B99F-49F1-AE44-8CE5C7D627AD}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargooperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581B1E63-B99F-49F1-AE44-8CE5C7D627AD}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargooperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581B1E63-B99F-49F1-AE44-8CE5C7D627AD}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581B1E63-B99F-49F1-AE44-8CE5C7D627AD}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581B1E63-B99F-49F1-AE44-8CE5C7D627AD}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargocompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581B1E63-B99F-49F1-AE44-8CE5C7D627AD}|Services\\Cargo\\MultiShop.Cargo.EntityLayer\\MultiShop.Cargo.EntityLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.entitylayer\\concrete\\cargocompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63D89F3-96F4-4C2C-99BF-9466D031C4F0}|Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\cargo\\multishop.cargo.dtolayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63D89F3-96F4-4C2C-99BF-9466D031C4F0}|Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dtolayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E55711E-25DE-427B-87E0-D329B28446F1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E55711E-25DE-427B-87E0-D329B28446F1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64311EA-52B2-45EE-A8F1-CF07E0974A8E}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\discount\\multishop.discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64311EA-52B2-45EE-A8F1-CF07E0974A8E}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{349780FD-345F-4C22-9DCE-96A9E536897C}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\order\\presentation\\multishop.order.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{349780FD-345F-4C22-9DCE-96A9E536897C}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|solutionrelative:services\\order\\presentation\\multishop.order.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,20 +143,12 @@
       "RelativeMoniker": "D:0:0:{349780FD-345F-4C22-9DCE-96A9E536897C}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|solutionrelative:services\\order\\presentation\\multishop.order.webapi\\multishop.order.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E55711E-25DE-427B-87E0-D329B28446F1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E55711E-25DE-427B-87E0-D329B28446F1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F64311EA-52B2-45EE-A8F1-CF07E0974A8E}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\discount\\multishop.discount\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F64311EA-52B2-45EE-A8F1-CF07E0974A8E}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E55711E-25DE-427B-87E0-D329B28446F1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\catalog\\multishop.catalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0E55711E-25DE-427B-87E0-D329B28446F1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F64311EA-52B2-45EE-A8F1-CF07E0974A8E}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\discount\\multishop.discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F64311EA-52B2-45EE-A8F1-CF07E0974A8E}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F64311EA-52B2-45EE-A8F1-CF07E0974A8E}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\discount\\multishop.discount\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -114,16 +198,8 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC755928-0D90-4F27-B99D-557F1F5678C5}|Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\order\\infrastructure\\multishop.order.persistence\\context\\orderconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC755928-0D90-4F27-B99D-557F1F5678C5}|Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|solutionrelative:services\\order\\infrastructure\\multishop.order.persistence\\context\\orderconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC3780BD-8F6B-4AE6-BB67-0AB842B87152}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\identityserver\\multishop.identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BC3780BD-8F6B-4AE6-BB67-0AB842B87152}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F64311EA-52B2-45EE-A8F1-CF07E0974A8E}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\discount\\multishop.discount\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F64311EA-52B2-45EE-A8F1-CF07E0974A8E}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67C95943-EBDC-42D2-A2F0-5E3C9A305E60}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\services\\order\\core\\multishop.order.application\\registrations\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -345,167 +421,271 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-19T19:24:03.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PortNumbers.txt",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\PortNumbers.txt",
-              "RelativeDocumentMoniker": "PortNumbers.txt",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\PortNumbers.txt",
-              "RelativeToolTip": "PortNumbers.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-19T19:10:13.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "\u0130dentityServerVersionErrorSolution.txt",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\\u0130dentityServerVersionErrorSolution.txt",
-              "RelativeDocumentMoniker": "\u0130dentityServerVersionErrorSolution.txt",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\\u0130dentityServerVersionErrorSolution.txt",
-              "RelativeToolTip": "\u0130dentityServerVersionErrorSolution.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-11T08:40:35.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Properties\\launchSettings.json",
-              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-19T13:50:34.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
-              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwD8AAAAsAAAAAAAAAA==",
+              "Title": "CargoContext.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Concrete\\CargoContext.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Concrete\\CargoContext.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Concrete\\CargoContext.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Concrete\\CargoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T07:23:54.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
-              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:46:40.578Z",
+              "WhenOpened": "2024-10-21T07:37:42.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "OrderDetailsController.cs",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
-              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Title": "ICargoOperationDal.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoOperationDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoOperationDal.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoOperationDal.cs*",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoOperationDal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T19:57:12.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddressesController.cs",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
-              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T12:33:05.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\appsettings.json",
-              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-19T19:22:06.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-19T13:30:07.982Z",
+              "WhenOpened": "2024-10-21T08:30:36.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "OrderingsController.cs",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderingsController.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderingsController.cs",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderingsController.cs",
-              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\IGenericDal.cs*",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\IGenericDal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T18:02:57.69Z",
+              "WhenOpened": "2024-10-21T08:19:51.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfCargoCompanyDal.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCompanyDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCompanyDal.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCompanyDal.cs*",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCompanyDal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:51:28.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfCargoCustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCustomerDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCustomerDal.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCustomerDal.cs*",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoCustomerDal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:17:07.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EfCargoDetailDal.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoDetailDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoDetailDal.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoDetailDal.cs*",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoDetailDal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:19:17.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfCargoOperationDal.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoOperationDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoOperationDal.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoOperationDal.cs*",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\EntityFramework\\EfCargoOperationDal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:20:56.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Repositories\\GenericRepository.cs*",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Repositories\\GenericRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:33:24.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICargoDetailDal.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoDetailDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoDetailDal.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoDetailDal.cs*",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoDetailDal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:29:14.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICargoCustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCustomerDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCustomerDal.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCustomerDal.cs*",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCustomerDal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:27:19.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICargoCompanyDal.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCompanyDal.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCompanyDal.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCompanyDal.cs*",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Abstract\\ICargoCompanyDal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:23:52.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "MultiShop.Order.WebApi.csproj",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
-              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
-              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\IGenericService.cs*",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.BusinessLayer\\Abstract\\IGenericService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:26:07.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241021080648_mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Migrations\\20241021080648_mig_1.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Migrations\\20241021080648_mig_1.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Migrations\\20241021080648_mig_1.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Migrations\\20241021080648_mig_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:06:48.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MultiShop.Cargo.WebApi",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-28T12:32:23.082Z",
+              "WhenOpened": "2024-10-21T08:02:41.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "CargoCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCustomer.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCustomer.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCustomer.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:21:15.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CargoOperation.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoOperation.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoOperation.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoOperation.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:33:01.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CargoCompany.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCompany.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCompany.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCompany.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:18:30.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CargoDetail.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoDetail.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoDetail.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoDetail.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.EntityLayer\\Concrete\\CargoDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:15:13.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:16:42.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DtoLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\Class1.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DtoLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:07:57.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Program.cs",
@@ -518,7 +698,189 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T13:50:34.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "OrderConext.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderConext.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderConext.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderConext.cs",
+              "RelativeToolTip": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderConext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:13:52.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "\u0130dentityServerVersionErrorSolution.txt",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\\u0130dentityServerVersionErrorSolution.txt",
+              "RelativeDocumentMoniker": "\u0130dentityServerVersionErrorSolution.txt",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\\u0130dentityServerVersionErrorSolution.txt",
+              "RelativeToolTip": "\u0130dentityServerVersionErrorSolution.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-11T08:40:35.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
+              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwD8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:23:54.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:46:40.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Program.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Program.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:24:13.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PortNumbers.txt",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\PortNumbers.txt",
+              "RelativeDocumentMoniker": "PortNumbers.txt",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\PortNumbers.txt",
+              "RelativeToolTip": "PortNumbers.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-19T19:10:13.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T19:24:03.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:57:12.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddressesController.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:33:05.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\appsettings.json",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T19:22:06.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T13:30:07.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderingsController.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderingsController.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderingsController.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderingsController.cs",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:02:57.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MultiShop.Order.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T12:32:23.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\appsettings.json",
@@ -531,33 +893,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Program.cs",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Program.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T18:24:13.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 35,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Properties\\launchSettings.json",
               "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-19T18:52:21.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 36,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Properties\\launchSettings.json",
@@ -570,7 +919,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 40,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
@@ -583,7 +932,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 38,
               "Title": "DiscountsController.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
@@ -596,7 +945,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 39,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
@@ -609,7 +958,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 43,
               "Title": "ResgistersController.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Controllers\\ResgistersController.cs",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Controllers\\ResgistersController.cs",
@@ -622,7 +971,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 41,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Startup.cs",
@@ -635,7 +984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 44,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Models\\ApplicationUser.cs",
@@ -648,7 +997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 42,
               "Title": "MultiShop.Catalog.csproj",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
@@ -661,7 +1010,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 101,
               "Title": "20241010185819_mig_1.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Migrations\\20241010185819_mig_1.cs",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Migrations\\20241010185819_mig_1.cs",
@@ -674,7 +1023,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 102,
               "Title": "PortainerCmd.txt",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\PortainerCmd.txt",
               "RelativeDocumentMoniker": "PortainerCmd.txt",
@@ -687,7 +1036,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 45,
               "Title": "MultiShop.IdentityServer",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
@@ -699,7 +1048,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 47,
               "Title": "MultiShop.IdentityServer.csproj",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
@@ -712,7 +1061,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 46,
               "Title": "UserRegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\DTOs\\UserRegisterDto.cs",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\DTOs\\UserRegisterDto.cs",
@@ -725,7 +1074,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 48,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -738,7 +1087,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 49,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\appsettings.json",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\appsettings.json",
@@ -751,33 +1100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "OrderConext.cs",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderConext.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderConext.cs",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderConext.cs",
-              "RelativeToolTip": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderConext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T18:13:52.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "DapperContext.cs",
-              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
-              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T18:16:42.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 50,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Registrations\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Registrations\\ServiceRegistration.cs",
@@ -790,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 100,
               "Title": "20241007103449_mig_1.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Migrations\\20241007103449_mig_1.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Migrations\\20241007103449_mig_1.cs",
@@ -803,7 +1126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 52,
               "Title": "UpdateOrderingCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Handlers\\OrderingHandlers\\UpdateOrderingCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Handlers\\OrderingHandlers\\UpdateOrderingCommandHandler.cs",
@@ -816,7 +1139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 53,
               "Title": "CreateOrderingCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Handlers\\OrderingHandlers\\CreateOrderingCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Handlers\\OrderingHandlers\\CreateOrderingCommandHandler.cs",
@@ -829,7 +1152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 51,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Registrations\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Registrations\\ServiceRegistration.cs",
@@ -842,7 +1165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 56,
               "Title": "RemoveOrderingCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Handlers\\OrderingHandlers\\RemoveOrderingCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Handlers\\OrderingHandlers\\RemoveOrderingCommandHandler.cs",
@@ -855,7 +1178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 54,
               "Title": "GetOrderingByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Handlers\\OrderingHandlers\\GetOrderingByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Handlers\\OrderingHandlers\\GetOrderingByIdQueryHandler.cs",
@@ -868,7 +1191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 55,
               "Title": "GetOrderingQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Handlers\\OrderingHandlers\\GetOrderingQueryHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Handlers\\OrderingHandlers\\GetOrderingQueryHandler.cs",
@@ -881,7 +1204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 57,
               "Title": "RemoveOrderingCommand.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Commands\\OrderingCommands\\RemoveOrderingCommand.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Commands\\OrderingCommands\\RemoveOrderingCommand.cs",
@@ -894,7 +1217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 61,
               "Title": "UpdateOrderingCommand.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Commands\\OrderingCommands\\UpdateOrderingCommand.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Commands\\OrderingCommands\\UpdateOrderingCommand.cs",
@@ -907,7 +1230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 58,
               "Title": "CreateOrderingCommand.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Commands\\OrderingCommands\\CreateOrderingCommand.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Commands\\OrderingCommands\\CreateOrderingCommand.cs",
@@ -920,7 +1243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 59,
               "Title": "GetOrderingByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingByIdQuery.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingByIdQuery.cs",
@@ -933,7 +1256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 60,
               "Title": "GetOrderingQuery.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingQuery.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Queries\\OrderingQueries\\GetOrderingQuery.cs",
@@ -946,7 +1269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 62,
               "Title": "GetOrderingByIdQueryResult.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingByIdQueryResult.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingByIdQueryResult.cs",
@@ -959,7 +1282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 63,
               "Title": "GetOrderingQueryResult.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingQueryResult.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\Mediator\\Results\\OrderingResults\\GetOrderingQueryResult.cs",
@@ -972,7 +1295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 64,
               "Title": "MultiShop.Order.Application.csproj",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
@@ -985,7 +1308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 66,
               "Title": "UpdateOrderDetailCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\UpdateOrderDetailCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\UpdateOrderDetailCommandHandler.cs",
@@ -998,7 +1321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 65,
               "Title": "MultiShop.Order.Persistence.csproj",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj",
               "RelativeDocumentMoniker": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj",
@@ -1011,7 +1334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 68,
               "Title": "RemoveOrderDetailCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\RemoveOrderDetailCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\RemoveOrderDetailCommandHandler.cs",
@@ -1024,7 +1347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 70,
               "Title": "GetOrderDetailByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailByIdQueryHandler.cs",
@@ -1037,7 +1360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 74,
               "Title": "CreateOrderDetailCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\CreateOrderDetailCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\CreateOrderDetailCommandHandler.cs",
@@ -1050,7 +1373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 73,
               "Title": "GetOrderDetailQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
@@ -1063,7 +1386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 77,
               "Title": "RemoveOrderDetailCommand.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\RemoveOrderDetailCommand.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\RemoveOrderDetailCommand.cs",
@@ -1076,7 +1399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 75,
               "Title": "UpdateOrderDetailCommand.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\UpdateOrderDetailCommand.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\UpdateOrderDetailCommand.cs",
@@ -1089,7 +1412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 76,
               "Title": "CreateOrderDetailCommand.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\CreateOrderDetailCommand.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\CreateOrderDetailCommand.cs",
@@ -1102,7 +1425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 71,
               "Title": "GetOrderDetailByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\OrderDetailQueries\\GetOrderDetailByIdQuery.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\OrderDetailQueries\\GetOrderDetailByIdQuery.cs",
@@ -1115,7 +1438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 78,
               "Title": "GetOrderDetailByIdQueryResult.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailByIdQueryResult.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailByIdQueryResult.cs",
@@ -1128,7 +1451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 79,
               "Title": "GetOrderDetailQueryResult.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailQueryResult.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailQueryResult.cs",
@@ -1141,7 +1464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 81,
               "Title": "IDiscountService.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Services\\IDiscountService.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Services\\IDiscountService.cs",
@@ -1154,7 +1477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 82,
               "Title": "DiscountService.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
@@ -1167,7 +1490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 83,
               "Title": "UpdateDiscountCouponDto.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\DTOs\\UpdateDiscountCouponDto.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\DTOs\\UpdateDiscountCouponDto.cs",
@@ -1180,7 +1503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 84,
               "Title": "ResultDiscountCouponDto.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\DTOs\\ResultDiscountCouponDto.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\DTOs\\ResultDiscountCouponDto.cs",
@@ -1193,7 +1516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 85,
               "Title": "GetByIdDiscountCouponDto.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\DTOs\\GetByIdDiscountCouponDto.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\DTOs\\GetByIdDiscountCouponDto.cs",
@@ -1206,7 +1529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 86,
               "Title": "CreateDiscountCouponDto.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\DTOs\\CreateDiscountCouponDto.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\DTOs\\CreateDiscountCouponDto.cs",
@@ -1219,7 +1542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 87,
               "Title": "Coupon.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Entites\\Coupon.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Entites\\Coupon.cs",
@@ -1232,7 +1555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 80,
               "Title": "MultiShop.Discount.csproj",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj",
               "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj",
@@ -1245,7 +1568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 88,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Repositories\\Repository.cs",
@@ -1258,7 +1581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 89,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\IRepository.cs",
@@ -1271,7 +1594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 67,
               "Title": "UpdateAddressCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
@@ -1284,7 +1607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 69,
               "Title": "RemoveAddressCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\RemoveAddressCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\RemoveAddressCommandHandler.cs",
@@ -1297,7 +1620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 72,
               "Title": "GetAddressByIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
@@ -1310,7 +1633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 91,
               "Title": "ProductImagesController.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
@@ -1323,7 +1646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 92,
               "Title": "ProductDetailsController.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
@@ -1336,7 +1659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 94,
               "Title": "DatabaseSettings.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Settings\\DatabaseSettings.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Settings\\DatabaseSettings.cs",
@@ -1349,7 +1672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 95,
               "Title": "ResultCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\DTOs\\CategoryDTOs\\ResultCategoryDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\DTOs\\CategoryDTOs\\ResultCategoryDto.cs",
@@ -1362,7 +1685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 93,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Entites\\Category.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Entites\\Category.cs",
@@ -1375,7 +1698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 96,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Entites\\ProductImage.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Entites\\ProductImage.cs",
@@ -1388,7 +1711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 98,
               "Title": "IDatabaseSettings.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Settings\\IDatabaseSettings.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Settings\\IDatabaseSettings.cs",
@@ -1401,7 +1724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 97,
               "Title": "ProductDetail.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Entites\\ProductDetail.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Entites\\ProductDetail.cs",
@@ -1414,7 +1737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 99,
               "Title": "UpdateProductDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\DTOs\\ProductDetailDTOs\\UpdateProductDetailDto.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\DTOs\\ProductDetailDTOs\\UpdateProductDetailDto.cs",
@@ -1427,7 +1750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 90,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\ProductService.cs",
