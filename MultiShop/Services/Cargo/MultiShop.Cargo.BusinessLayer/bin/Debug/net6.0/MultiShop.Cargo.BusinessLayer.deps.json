@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "MultiShop.Cargo.BusinessLayer/1.0.0": {
         "dependencies": {
-          "MultiShop.Cargo.DataAccessLayer": "1.0.0"
+          "MultiShop.Cargo.DataAccessLayer": "1.0.0",
+          "MultiShop.Cargo.DtoLayer": "1.0.0"
         },
         "runtime": {
           "MultiShop.Cargo.BusinessLayer.dll": {}
@@ -473,6 +474,14 @@
           }
         }
       },
+      "MultiShop.Cargo.DtoLayer/1.0.0": {
+        "runtime": {
+          "MultiShop.Cargo.DtoLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "MultiShop.Cargo.EntityLayer/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.33",
@@ -774,6 +783,11 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "MultiShop.Cargo.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MultiShop.Cargo.DtoLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

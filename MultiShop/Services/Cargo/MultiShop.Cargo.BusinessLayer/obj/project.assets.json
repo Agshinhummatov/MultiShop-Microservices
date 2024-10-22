@@ -751,6 +751,16 @@
           "bin/placeholder/MultiShop.Cargo.DataAccessLayer.dll": {}
         }
       },
+      "MultiShop.Cargo.DtoLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MultiShop.Cargo.DtoLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MultiShop.Cargo.DtoLayer.dll": {}
+        }
+      },
       "MultiShop.Cargo.EntityLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1935,6 +1945,11 @@
       "path": "../MultiShop.Cargo.DataAccessLayer/MultiShop.Cargo.DataAccessLayer.csproj",
       "msbuildProject": "../MultiShop.Cargo.DataAccessLayer/MultiShop.Cargo.DataAccessLayer.csproj"
     },
+    "MultiShop.Cargo.DtoLayer/1.0.0": {
+      "type": "project",
+      "path": "../MultiShop.Cargo.DtoLayer/MultiShop.Cargo.DtoLayer.csproj",
+      "msbuildProject": "../MultiShop.Cargo.DtoLayer/MultiShop.Cargo.DtoLayer.csproj"
+    },
     "MultiShop.Cargo.EntityLayer/1.0.0": {
       "type": "project",
       "path": "../MultiShop.Cargo.EntityLayer/MultiShop.Cargo.EntityLayer.csproj",
@@ -1943,7 +1958,8 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "MultiShop.Cargo.DataAccessLayer >= 1.0.0"
+      "MultiShop.Cargo.DataAccessLayer >= 1.0.0",
+      "MultiShop.Cargo.DtoLayer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1976,6 +1992,9 @@
           "projectReferences": {
             "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj": {
               "projectPath": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj"
+            },
+            "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj": {
+              "projectPath": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj"
             }
           }
         }

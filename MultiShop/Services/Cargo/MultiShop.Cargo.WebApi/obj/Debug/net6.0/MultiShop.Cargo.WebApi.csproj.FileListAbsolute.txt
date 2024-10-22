@@ -75,3 +75,5 @@ C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Cargo\MultiShop.Cargo.We
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\obj\Debug\net6.0\MultiShop.Cargo.WebApi.pdb
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\obj\Debug\net6.0\MultiShop.Cargo.WebApi.genruntimeconfig.cache
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\obj\Debug\net6.0\ref\MultiShop.Cargo.WebApi.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Cargo\MultiShop.Cargo.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

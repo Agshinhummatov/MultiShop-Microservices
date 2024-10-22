@@ -16,3 +16,5 @@ C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Cargo\MultiShop.Cargo.Bu
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Cargo\MultiShop.Cargo.BusinessLayer\bin\Debug\net6.0\MultiShop.Cargo.EntityLayer.pdb
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Cargo\MultiShop.Cargo.BusinessLayer\obj\Debug\net6.0\MultiShop.Cargo.BusinessLayer.csproj.AssemblyReference.cache
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Cargo\MultiShop.Cargo.BusinessLayer\obj\Debug\net6.0\MultiSho.9C1E364B.Up2Date
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Cargo\MultiShop.Cargo.BusinessLayer\bin\Debug\net6.0\MultiShop.Cargo.DtoLayer.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Services\Cargo\MultiShop.Cargo.BusinessLayer\bin\Debug\net6.0\MultiShop.Cargo.DtoLayer.pdb

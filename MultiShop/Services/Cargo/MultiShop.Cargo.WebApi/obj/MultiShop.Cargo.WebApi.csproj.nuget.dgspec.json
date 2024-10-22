@@ -31,6 +31,9 @@
             "projectReferences": {
               "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj": {
                 "projectPath": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj"
+              },
+              "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj": {
+                "projectPath": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj"
               }
             }
           }
@@ -333,6 +336,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
