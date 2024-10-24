@@ -7,9 +7,11 @@ The MultiShop Catalog Service is a microservice designed to manage product categ
 - **Category Management**: Create, read, update, and delete product categories.
 - **Product Detail Management**: Manage product details with CRUD operations.
 - **Product Image Management**: Handle product images with ease.
+- **Secure Access**: JWT-based authentication for all API endpoints and JSON Web Tokens (JWT) using IdentityServer for secure access.
 
 ## Technologies
 - **Framework**: .NET Core
+- **Authentication**: JSON Web Tokens (JWT) using IdentityServer for secure access.  
 - **Database**: MongoDB
 - **ORM**: AutoMapper for object mapping
 
@@ -58,6 +60,7 @@ The MultiShop Discount Service is a microservice designed to manage coupon codes
 ## Technologies
 - **Framework**: .NET Core
 - **Database**: SQL Server
+- **Authentication**: JSON Web Tokens (JWT) using IdentityServer for secure access.  
 - **ORM**: Dapper for data access
 
 
@@ -101,11 +104,11 @@ The **Order Service** follows the **Onion Architecture** pattern, which separate
 - **Address Management**: Manage delivery and billing addresses.
 - **Order Operations**: Handle order processing, shipping, cancellation, etc.
 - **CQRS Integration**: Separation of commands and queries using **MediatR**.
-- **Secure Access**: JWT-based authentication for all API endpoints.
+- **Secure Access**: JWT-based authentication for all API endpoints and JSON Web Tokens (JWT) using IdentityServer for secure access.
 
 ## **Technologies**
 - **Framework**: .NET Core
-- **Authentication**: JSON Web Tokens (JWT)
+- **Authentication**: JSON Web Tokens (JWT) using IdentityServer for secure access.  
 - **CQRS**: MediatR for Command and Query Responsibility Segregation
 - **Database**: SQL Server (or other relational databases)
 - **ORM**: Entity Framework Core
