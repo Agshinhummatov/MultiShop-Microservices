@@ -1,0 +1,51 @@
+﻿@model List<MultiShop.DtoLayer.CatalogDtos.CategoryDtos.ResultCategoryDto>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+
+
+
+<section class="content container-fluid">
+    <div class="row">
+
+        <div class="col-md-12">
+            <div class="chart-box">
+                <h4>Kategory Listesi</h4>
+                <p>Kategory detaylari</p>
+                <div class="bs-example" data-example-id="bordered-table">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Kategory Adi</th>
+                                <th>Kategoriye ait Urunler</th>
+                                <th>Sil</th>
+                                <th>Guncelle</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach(var item in Model)
+                            {
+                                <tr>
+                                    <th scope="row">@item.CategoryId</th>
+                                    <td>@item.CategroyName</td>
+                                    <td><a href="#" class="btn btn-warning" > Kategoriye ait urunler</a></td>
+                                    <td><a href="#" class="btn btn-warning" > Sil</a></td>
+                                    <td><a href="#" class="btn btn-warning" > Guncele</a></td>
+                                  
+                                </tr>
+                            }
+                            
+                       
+                        </tbody>
+                    </table>
+
+                    <td><a href="#" class="btn btn-warning"> Yeni Category girisi</a></td>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>

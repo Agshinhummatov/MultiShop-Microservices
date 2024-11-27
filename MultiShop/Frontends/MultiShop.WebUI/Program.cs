@@ -1,6 +1,27 @@
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddHttpClient();
+
+
+//builder.Services.AddHttpClient("InsecureHttpClient", client =>
+//{
+//    // Burada, HTTP istemcisi üzerinden SSL do?rulamas?n? devre d??? b?rak?yoruz
+//    var handler = new HttpClientHandler
+//    {
+//        // Sertifika do?rulamas?n? devre d??? b?rak?yoruz
+//        ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => true
+//    };
+
+//    // ?stemciyi bu handler ile yap?land?r?yoruz
+//    client = new HttpClient(handler);
+//})
+//.ConfigurePrimaryHttpMessageHandler(() => new HttpClientHandler
+//{
+//    // Sertifika do?rulamas?n? devre d??? b?rak?yoruz
+//    ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => true
+//});
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
@@ -23,5 +44,14 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllerRoute(
+      name: "areas",
+      pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+    );
+});
+
 
 app.Run();
