@@ -1,4 +1,4 @@
-﻿@model List<MultiShop.DtoLayer.CatalogDtos.CategoryDtos.ResultCategoryDto>
+﻿@model List<ResultCategoryDto>
 
 @{
     ViewData["Title"] = "Index";
@@ -12,8 +12,8 @@
 
         <div class="col-md-12">
             <div class="chart-box">
-                <h4>Kategory Listesi</h4>
-                <p>Kategory detaylari</p>
+            
+               
                 <div class="bs-example" data-example-id="bordered-table">
                     <table class="table table-bordered">
                         <thead>
@@ -32,8 +32,8 @@
                                     <th scope="row">@item.CategoryId</th>
                                     <td>@item.CategroyName</td>
                                     <td><a href="#" class="btn btn-warning" > Kategoriye ait urunler</a></td>
-                                    <td><a href="#" class="btn btn-warning" > Sil</a></td>
-                                    <td><a href="#" class="btn btn-warning" > Guncele</a></td>
+                                    <td><a href="/Admin/Category/DeleteCategory/@item.CategoryId" class="btn btn-warning"> Sil</a></td>
+                                    <td><a href="/Admin/Category/UpdateCategory/@item.CategoryId" class="btn btn-warning"> Guncele</a></td>
                                   
                                 </tr>
                             }
@@ -42,7 +42,7 @@
                         </tbody>
                     </table>
 
-                    <td><a href="#" class="btn btn-warning"> Yeni Category girisi</a></td>
+                    <a href="/Admin/Category/CreateCategory/" class="btn btn-warning"> Yeni Category girisi</a>
                 </div>
             </div>
         </div>
