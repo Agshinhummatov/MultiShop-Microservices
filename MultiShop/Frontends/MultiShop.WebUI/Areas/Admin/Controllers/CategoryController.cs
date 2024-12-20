@@ -25,7 +25,7 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
             ViewBag.v1 = "Ana Sayfa";
             ViewBag.v2 = "Kategoriler";
             ViewBag.v3 = "Kategori Listesi";
-            @ViewBag.vO = "Kaetgory islemleri";
+            ViewBag.vO = "Kaetgory islemleri";
 
             var client = _httpClientFactory.CreateClient();
 
@@ -49,12 +49,12 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
             ViewBag.v1 = "Ana Sayfa";
             ViewBag.v2 = "Kategoriler";
             ViewBag.v3 = "Yeni kategory ekleme";
-            @ViewBag.vO = "Kaetgory islemleri";
+            ViewBag.vO = "Kaetgory islemleri";
             return View();
         }
 
         [HttpPost]
-        [Route("CreateCategory/{id}")]
+        [Route("CreateCategory")]
         public async Task<IActionResult> CreateCategory(CreateCategoryDto createCategoryDto)
         {
             var client = _httpClientFactory.CreateClient();
@@ -66,7 +66,7 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
             var responseMessage = await client.PostAsync("https://localhost:7070/api/Categories", stringContent);
             if (responseMessage.IsSuccessStatusCode)
             {
-                return RedirectToAction("Index","Category",new {area = "Admin"});
+                return RedirectToAction("Index", "Category", new { area = "Admin" });
 
             }
 
@@ -94,8 +94,8 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
         {
             ViewBag.v1 = "Ana Sayfa";
             ViewBag.v2 = "Kategoriler";
-            ViewBag.v3 = "Yeni kategory ekleme";
-            @ViewBag.vO = "Kaetgory islemleri";
+            ViewBag.v3 = "Kategory Gunceleme Sayfasi";
+            ViewBag.vO = "Kaetgory islemleri";
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.GetAsync("https://localhost:7070/api/Categories/" + id);
             if (responseMessage.IsSuccessStatusCode)
