@@ -294,5 +294,15 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Catalog.Controllers.ProductsController",
+    "Method": "ProductListWithCategory",
+    "RelativePath": "api/Products/ProductListWithCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]
