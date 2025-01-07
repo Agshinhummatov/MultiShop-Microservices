@@ -1,8 +1,11 @@
 ﻿using Microsoft.Extensions.Options;
 using MultiShop.Catalog.Services.CategoryServices;
+using MultiShop.Catalog.Services.FeatureServices;
+using MultiShop.Catalog.Services.FeatureSliderServices;
 using MultiShop.Catalog.Services.ProductDetailServices;
 using MultiShop.Catalog.Services.ProductImageServices;
 using MultiShop.Catalog.Services.ProductServices;
+using MultiShop.Catalog.Services.SpecialOfferServices;
 using MultiShop.Catalog.Settings;
 using System.Reflection;
 
@@ -17,6 +20,9 @@ namespace MultiShop.Catalog.Registration
             services.AddScoped<IProductService, ProductService>();
             services.AddScoped<IProductDetailService, ProductDetailService>();
             services.AddScoped<IProductImageService, ProductImageService>();
+            services.AddScoped<IFeatureSliderService, FeatureSliderService>();
+            services.AddScoped<ISpecialOfferService, SpecialOfferService>();
+            services.AddScoped<IFeatureService, FeatureService>();
 
             // Configure DatabaseSettings from the app's configuration
             services.Configure<DatabaseSettings>(configuration.GetSection("DatabaseSettings"));

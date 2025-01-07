@@ -13,7 +13,7 @@ namespace MultiShop.Catalog.Services.CategoryServices
 
         public CategoryService(IMapper mapper,IDatabaseSettings _databaseSettings)
         {
-            var  client = new MongoClient(_databaseSettings.ConnectionStrings);
+            var  client = new MongoClient(_databaseSettings.ConnectionString);
             var database = client.GetDatabase(_databaseSettings.DatabaseName);
             _categoryCollection = database.GetCollection<Category>(_databaseSettings.CategoryCollectionName);
             _mapper = mapper;
@@ -32,14 +32,13 @@ namespace MultiShop.Catalog.Services.CategoryServices
 
         public async Task<List<ResultCategoryDto>> GetAllCategoryAsync()
         {
-           var values = await _categoryCollection.Find(x=>true).ToListAsync();
+            var values = await _categoryCollection.Find(x=>true).ToListAsync();
             return _mapper.Map<List<ResultCategoryDto>>(values);
         }
 
         public async Task<GetByIdCategoryDto> GetByIdCategoryAsync(string id)
         {
             var values = await _categoryCollection.Find<Category>(x=>x.CategoryId == id).FirstOrDefaultAsync();
-
             return _mapper.Map<GetByIdCategoryDto>(values);
 
         }

@@ -1,0 +1,38 @@
+﻿@model UpdateFeatureSliderDto
+
+@{
+    ViewData["Title"] = "UpdateFeatureSlider";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+
+<section class="content container-fluid">
+    <div class="row">
+
+        <div class="col-md-12">
+            <div class="chart-box">
+                <h4>One cikan Slider gorseli Guncelenmesi Sayfasi</h4>
+                <br />
+                <div class="bs-example" data-example-id="bordered-table">
+                    <form method="post">
+                        <input type="hidden" readonly class="form-control" asp-for="FeatureSliderId" />
+                        <label>Gorsel basligi</label>
+                        <input type="text" class="form-control" asp-for="Title" />
+                        <br />
+
+                        <label>Gorsel Aciklamasi</label>
+                        <input type="text" class="form-control" asp-for="Description" />
+                        <br />
+
+                        <label>Gorsel Linki</label>
+                        <input type="text" class="form-control" asp-for="ImageUrl" />
+                        <br />
+                        <button class="btn btn-primary"> One cikan Slider  Guncele</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+

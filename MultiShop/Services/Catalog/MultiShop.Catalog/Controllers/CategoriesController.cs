@@ -27,9 +27,13 @@ namespace MultiShop.Catalog.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetCatgeoyrById(string id)
+        public async Task<IActionResult> GetCategoryById(string id)
         {
             var values = await _categoryService.GetByIdCategoryAsync(id);
+            if (values == null)
+            {
+                return NotFound(); // HTTP 404 Not Found if no category found
+            }
             return Ok(values);
         }
 
@@ -43,15 +47,27 @@ namespace MultiShop.Catalog.Controllers
         [HttpDelete]
         public async Task<IActionResult> DeleteCategory(string id)
         {
+            var existingCategory = await _categoryService.GetByIdCategoryAsync(id);
+            if (existingCategory == null)
+            {
+                return NotFound(); // HTTP 404 Not Found if the category doesn't exist
+            }
+
             await _categoryService.DeleteCategoryAsync(id);
-            return Ok(StatusCodes.Status200OK);
+            return NoContent();
         }
 
         [HttpPut]
         public async Task<IActionResult> UpdateCategory(UpdateCategoryDto updateCategoryDto)
         {
+            var existingCategory = await _categoryService.GetByIdCategoryAsync(updateCategoryDto.CategoryId);
+            if (existingCategory == null)
+            {
+                return NotFound(); // HTTP 404 Not Found if the category doesn't exist
+            }
+
             await _categoryService.UpdateCategoryAsync(updateCategoryDto);
-            return Ok(StatusCodes.Status200OK);
+            return NoContent(); // HTTP 204 No Content after successful update (no content to return)
         }
     }
 }

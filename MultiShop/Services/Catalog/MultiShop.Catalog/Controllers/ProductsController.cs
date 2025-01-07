@@ -30,6 +30,10 @@ namespace MultiShop.Catalog.Controllers
         public async Task<IActionResult> GetCatgeoyrById(string id)
         {
             var product = await _productService.GetByIdProductAsync(id);
+            if (product == null)
+            {
+                return NotFound(); 
+            }
             return Ok(product);
         }
 
@@ -43,6 +47,12 @@ namespace MultiShop.Catalog.Controllers
         [HttpDelete]
         public async Task<IActionResult> DeleteProduct(string id)
         {
+            var existingProduct = await _productService.GetByIdProductAsync(id);
+            if (existingProduct == null)
+            {
+                return NotFound(); // HTTP 404 Not Found if the product does not exist
+            }
+
             await _productService.DeleteProductAsync(id);
             return NoContent();
 
@@ -51,6 +61,12 @@ namespace MultiShop.Catalog.Controllers
         [HttpPut]
         public async Task<IActionResult> UpdateProduct(UpdateProductDto updateProductDto)
         {
+            var existingProduct = await _productService.GetByIdProductAsync(updateProductDto.ProductId);
+            if (existingProduct == null)
+            {
+                return NotFound(); // HTTP 404 Not Found if the product does not exist
+            }
+
             await _productService.UpdateProductAsync(updateProductDto);
             return NoContent();
         }

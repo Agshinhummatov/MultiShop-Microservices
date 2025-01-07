@@ -44,6 +44,8 @@ namespace MultiShop.Catalog.Controllers
         [HttpDelete]
         public async Task<IActionResult> DeleteProductDetail(string id)
         {
+            var existingProductDetail = await _productDetailService.GetByIdProductDetailAsync(id);
+            if (existingProductDetail == null) return NotFound(); 
             await _productDetailService.DeleteProductDetailAsync(id);
             return NoContent();
         }
@@ -51,6 +53,9 @@ namespace MultiShop.Catalog.Controllers
         [HttpPut]
         public async Task<IActionResult> UpdateProductDetail(UpdateProductDetailDto updateProductDetailDto)
         {
+            var existingProductDetail = await _productDetailService.GetByIdProductDetailAsync(updateProductDetailDto.ProductDetailId);
+            if (existingProductDetail == null)
+                return NotFound();
             await _productDetailService.UpdateProductDetailAsync(updateProductDetailDto);
             return NoContent();
         }

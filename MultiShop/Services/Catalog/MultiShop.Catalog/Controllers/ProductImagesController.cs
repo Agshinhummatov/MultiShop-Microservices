@@ -43,6 +43,10 @@ namespace MultiShop.Catalog.Controllers
         [HttpDelete]
         public async Task<IActionResult> DeleteProductImage(string id)
         {
+            var existingImage = await _productImageService.GetByIdProductImageAsync(id);
+            if (existingImage == null)
+                return NotFound(); 
+
             await _productImageService.DeleteProductImageAsync(id);
             return NoContent();
         }
@@ -50,6 +54,9 @@ namespace MultiShop.Catalog.Controllers
         [HttpPut]
         public async Task<IActionResult> UpdateProductImage(UpdateProductImageDto updateProductImageDto)
         {
+            var existingImage = await _productImageService.GetByIdProductImageAsync(updateProductImageDto.ProductImageId);
+            if (existingImage == null)
+                return NotFound(); 
             await _productImageService.UpdateProductImageAsync(updateProductImageDto);
             return NoContent();
         }
