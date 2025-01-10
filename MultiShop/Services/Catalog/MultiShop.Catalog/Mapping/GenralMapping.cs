@@ -3,6 +3,7 @@ using MultiShop.Catalog.Dtos.FeatureDTOs;
 using MultiShop.Catalog.DTOs.CategoryDTOs;
 using MultiShop.Catalog.DTOs.FeatureDTOs;
 using MultiShop.Catalog.DTOs.FeatureSliderDTOs;
+using MultiShop.Catalog.DTOs.OfferDiscountDTOs;
 using MultiShop.Catalog.DTOs.ProductDetailDTOs;
 using MultiShop.Catalog.DTOs.ProductDTOs;
 using MultiShop.Catalog.DTOs.ProductImageDTOs;
@@ -59,6 +60,10 @@ namespace MultiShop.Catalog.Mapping
 
 
 
+            CreateMap<OfferDiscount, ResultOfferDiscountDto>().ReverseMap();
+            CreateMap<OfferDiscount, CreateOfferDiscountDto>().ReverseMap();
+            CreateMap<OfferDiscount, UpdateOfferDiscountDto>().ReverseMap();
+            CreateMap<OfferDiscount, GetByIdOfferDiscountDto>().ReverseMap();
 
 
 

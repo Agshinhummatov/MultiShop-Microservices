@@ -57,7 +57,7 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
             List<SelectListItem> categoryValues = (from x in values
                                                    select new SelectListItem
                                                    {
-                                                       Text = x.CategroyName,
+                                                       Text = x.CategoryName,
                                                        Value= x.CategoryId
                                                    }).ToList();
 
@@ -119,7 +119,7 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
             List<SelectListItem> categorySelectList = (from x in categoryList
                                                        select new SelectListItem
                                                        {
-                                                           Text = x.CategroyName,
+                                                           Text = x.CategoryName,
                                                            Value = x.CategoryId
                                                        }).ToList();
 
