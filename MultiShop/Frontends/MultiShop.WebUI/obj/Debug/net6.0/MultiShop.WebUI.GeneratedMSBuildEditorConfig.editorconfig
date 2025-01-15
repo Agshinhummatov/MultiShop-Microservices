@@ -18,8 +18,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Frontends\MultiShop.WebUI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/s.idrisov/Desktop/MultiSohp/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/About/CreateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcQ3JlYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/s.idrisov/Desktop/MultiSohp/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/s.idrisov/Desktop/MultiSohp/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/About/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcVXBkYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/s.idrisov/Desktop/MultiSohp/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/AdminLayout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/s.idrisov/Desktop/MultiSohp/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/Brand/CreateBrand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcQ3JlYXRlQnJhbmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/s.idrisov/Desktop/MultiSohp/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/Brand/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/s.idrisov/Desktop/MultiSohp/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/Brand/UpdateBrand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcVXBkYXRlQnJhbmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/s.idrisov/Desktop/MultiSohp/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/Category/CreateCategory.cshtml]
@@ -56,6 +80,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/s.idrisov/Desktop/MultiSohp/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/Feature/UpdateFeature.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmVhdHVyZVxVcGRhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/s.idrisov/Desktop/MultiSohp/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/OfferDiscount/CreateOfferDiscount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT2ZmZXJEaXNjb3VudFxDcmVhdGVPZmZlckRpc2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/s.idrisov/Desktop/MultiSohp/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/OfferDiscount/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT2ZmZXJEaXNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/s.idrisov/Desktop/MultiSohp/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/OfferDiscount/UpdateOfferDiscount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT2ZmZXJEaXNjb3VudFxVcGRhdGVPZmZlckRpc2NvdW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/s.idrisov/Desktop/MultiSohp/MultiShop/Frontends/MultiShop.WebUI/Areas/Admin/Views/Product/CreateProduct.cshtml]
