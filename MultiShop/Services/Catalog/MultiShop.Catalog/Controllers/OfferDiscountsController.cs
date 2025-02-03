@@ -6,7 +6,7 @@ using MultiShop.Catalog.Services.OfferDiscountService;
 
 namespace MultiShop.Catalog.Controllers
 {
-    [AllowAnonymous]
+  
     [Route("api/[controller]")]
     [ApiController]
     public class OfferDiscountsController : ControllerBase

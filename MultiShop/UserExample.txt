@@ -1,0 +1,14 @@
+User password
+
+
+{
+    "UserName" : "ali01",
+    "Email": "ali01@gmail.com",
+    "Password": "1111aA*"
+}
+
+{
+    "UserName" : "aqsin",
+    "Email": "aqsin@gmail.com",
+    "Password": "2222aA*"
+}

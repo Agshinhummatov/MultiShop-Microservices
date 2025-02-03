@@ -1,7 +1,10 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using MultiShop.WebUI.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddHttpClient();
+
 
 
 //builder.Services.AddHttpClient("InsecureHttpClient", client =>
@@ -21,6 +24,22 @@ builder.Services.AddHttpClient();
 //    // Sertifika do?rulamas?n? devre d??? b?rak?yoruz
 //    ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => true
 //});
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddCookie(JwtBearerDefaults.AuthenticationScheme, opt =>
+{
+    opt.LoginPath = "/Login/Index/";
+    opt.LogoutPath = "/Login/LogOut/";
+    opt.AccessDeniedPath = "/Pages/AccessDenied/";
+    opt.Cookie.HttpOnly = true;
+    opt.Cookie.SameSite = SameSiteMode.Strict;
+    opt.Cookie.SecurePolicy = CookieSecurePolicy.SameAsRequest;
+    opt.Cookie.Name = "MultiShopJwt";
+});
+
+builder.Services.AddHttpContextAccessor();
+
+builder.Services.AddScoped<ILoginService, LoginService>();
+
+builder.Services.AddHttpClient();
 
 builder.Services.AddControllersWithViews();
 
@@ -39,6 +58,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

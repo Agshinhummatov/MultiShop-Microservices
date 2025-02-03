@@ -216,3 +216,11 @@ C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Frontends\MultiShop.WebUI\obj\Deb
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Frontends\MultiShop.WebUI\obj\Debug\net6.0\MultiSho.490B4246.Up2Date
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\MultiShop.DtoLayer.dll
 C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\MultiShop.DtoLayer.pdb
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\s.idrisov\Desktop\MultiSohp\MultiShop\Frontends\MultiShop.WebUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
