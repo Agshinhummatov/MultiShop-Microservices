@@ -7,7 +7,7 @@ using static MongoDB.Driver.WriteConcern;
 
 namespace MultiShop.Catalog.Controllers
 {
-  
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class CategoriesController : ControllerBase

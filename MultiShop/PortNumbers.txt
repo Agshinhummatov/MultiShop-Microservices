@@ -1,3 +1,5 @@
+
+Ocelot   -->   https://localhost:5000
 Identity -->  https://localhost:5001
 Catalog  -->  https://localhost:7070
 Discount -->  https://localhost:7071
@@ -5,3 +7,5 @@ Order    -->  https://localhost:7072
 Cargo    -->  https://localhost:7073
 Basket   -->  https://localhost:7074
 Comment   -->  https://localhost:7075
+Payment   -->  https://localhost:7076
+Images   -->  https://localhost:7077
