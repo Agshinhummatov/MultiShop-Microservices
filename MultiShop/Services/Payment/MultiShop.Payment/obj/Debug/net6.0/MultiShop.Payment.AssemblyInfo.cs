@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiShop.Payment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15affb5921ec376ee971e3845ccfe51a703c5f92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e3b4e23ebff82de0f7255f5e2e4fcfb6fe69484")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiShop.Payment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiShop.Payment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
