@@ -5,5 +5,6 @@ namespace MultiShop.WebUI.Services.Concrete
     public interface IIdentityService
     {
         Task<bool> SignIn(SignInDto signInDto);
+        Task<bool> GetRefreshToken();
     }
 }

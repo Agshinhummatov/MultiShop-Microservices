@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87D9539B-16C3-4F75-9110-FD0CD6955713}|ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\apigateway\\multishop.ocelotgateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{87D9539B-16C3-4F75-9110-FD0CD6955713}|ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj|solutionrelative:apigateway\\multishop.ocelotgateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\frontends\\multishop.webui\\services\\concrete\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\services\\concrete\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\frontends\\multishop.webui\\services\\concrete\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\services\\concrete\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\frontends\\multishop.webui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\frontends\\multishop.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\frontends\\multishop.webui\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC3780BD-8F6B-4AE6-BB67-0AB842B87152}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\identityserver\\multishop.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC3780BD-8F6B-4AE6-BB67-0AB842B87152}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513AE25D-A515-4219-960E-4542594FD274}|Requirement{513AE25D-A515-4219-960E-4542594FD274}|C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\LoginIndex.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{513AE25D-A515-4219-960E-4542594FD274}|Requirement{513AE25D-A515-4219-960E-4542594FD274}|solutionrelative:LoginIndex.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\frontends\\multishop.webui\\settings\\serviceapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\settings\\serviceapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\frontends\\multishop.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{177EC723-DFED-467D-8F7D-FACFAD245237}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D9539B-16C3-4F75-9110-FD0CD6955713}|ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj|c:\\users\\s.idrisov\\desktop\\multisohp\\multishop\\apigateway\\multishop.ocelotgateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87D9539B-16C3-4F75-9110-FD0CD6955713}|ApiGateway\\MultiShop.OcelotGateway\\MultiShop.OcelotGateway.csproj|solutionrelative:apigateway\\multishop.ocelotgateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\Services\\Concrete\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Services\\Concrete\\IIdentityService.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\Services\\Concrete\\IIdentityService.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Services\\Concrete\\IIdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:11:56.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:13:28.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginIndex.txt",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\LoginIndex.txt",
+              "RelativeDocumentMoniker": "LoginIndex.txt",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\LoginIndex.txt",
+              "RelativeToolTip": "LoginIndex.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-25T08:09:59.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:08:00.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\Services\\Concrete\\IdentityService.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Services\\Concrete\\IdentityService.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\Services\\Concrete\\IdentityService.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Services\\Concrete\\IdentityService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:59:46.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\Program.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:57:21.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceApiSettings.cs",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\Settings\\ServiceApiSettings.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Settings\\ServiceApiSettings.cs",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\Settings\\ServiceApiSettings.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Settings\\ServiceApiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:30:14.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\Frontends\\MultiShop.WebUI\\appsettings.json",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T10:52:19.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
               "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
               "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
               "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwFYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:17:04.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:17:04.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "ocelot.json",
               "DocumentMoniker": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\ocelot.json",
               "RelativeDocumentMoniker": "ApiGateway\\MultiShop.OcelotGateway\\ocelot.json",
               "ToolTip": "C:\\Users\\s.idrisov\\Desktop\\MultiSohp\\MultiShop\\ApiGateway\\MultiShop.OcelotGateway\\ocelot.json",
               "RelativeToolTip": "ApiGateway\\MultiShop.OcelotGateway\\ocelot.json",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAwwKgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-20T12:08:55.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T12:08:55.11Z"
             }
           ]
         }
